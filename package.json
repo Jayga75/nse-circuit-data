@@ -1,0 +1,9 @@
+{
+  "name": "nse-circuit-data",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scraper.js"
+  }
+}
