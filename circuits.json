@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-08",
+ "updated": "2026-10-09",
  "source": "https://nsearchives.nseindia.com/content/equities/sec_list.csv",
  "count": 3562,
- "changesApplied": 9,
+ "changesApplied": 0,
  "bands": {
   "ACSTECH": 2,
   "AGASTYAEN": 2,
