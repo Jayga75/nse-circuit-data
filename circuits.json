@@ -2,7 +2,7 @@
  "updated": "2026-10-27",
  "source": "https://nsearchives.nseindia.com/content/equities/sec_list.csv",
  "count": 3588,
- "changesApplied": 11,
+ "changesApplied": 4,
  "bands": {
   "ABAN": 2,
   "ABMINTLLTD": 2,
@@ -597,7 +597,7 @@
   "VISAMAN": 5,
   "VISHWAS": 5,
   "VISL": 5,
-  "VIVIDEL": 10,
+  "VIVIDEL": 5,
   "VIVO": 5,
   "VLEGOV": 5,
   "VLINFRA": 5,
