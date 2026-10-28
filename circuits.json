@@ -2,7 +2,7 @@
  "updated": "2026-10-28",
  "source": "https://nsearchives.nseindia.com/content/equities/sec_list.csv",
  "count": 3591,
- "changesApplied": 4,
+ "changesApplied": 3,
  "bands": {
   "ABAN": 2,
   "ABMINTLLTD": 2,
